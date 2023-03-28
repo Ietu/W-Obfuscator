@@ -5,7 +5,7 @@ Python obfuscator, part of upcoming Wratheon RAT tool. Easy to implement into a 
 
 Obfuscates files using various encoding techniques like lzma, gzip, bz2, binascii, and zlib. Encoding method is randomized each time. The obfuscation strength can be adjusted using the "-s" or "--strength" flag, with a default value of 100.
 
-If run with no arguments, opens a file dialog to select file to obfuscate and then type output name to console.
+If run with no arguments, opens a file dialog to select file to obfuscate and then type name of output file to console.
 
 ## Usage
 
