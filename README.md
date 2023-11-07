@@ -13,7 +13,7 @@ Usage with arguments: `python obfuscator.py [-f FILE] [-o OUTPUT] [-s STRENGTH]`
 
 Example: `python WObfuscator.py -f FileToObfuscate.py -o "Output.py"`
 
-Obfuscated output file can be ran regularly as a python file.
+**Obfuscated output file can be ran regularly as a python file of course.**
 
 Optional:
 -h for help message
